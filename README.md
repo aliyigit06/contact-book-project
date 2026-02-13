@@ -1,13 +1,36 @@
-# React + Vite
+# 🏠 Contact-Book-Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains a contact management system where users can create, edit, and delete contacts. It also includes a search functionality that allows users to filter contacts by name or phone number. The project was built with **React** and **Vite** on the frontend, and API requests are handled through a custom `server.js` on the backend.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- Responsive Design  
+- User-Friendly Interface  
+- Modular Component Structure  
+- Real-time Updates  
+- API Integration with **json-server**  
+- Custom Backend Logic with `server.js`  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# contact-book-project
+## 🛠️ Technologies Used
+
+### 💻 Frontend
+- HTML  
+- CSS  
+- JavaScript  
+- React  
+- Vite  
+- Axios  
+- React Icons  
+- Sass  
+
+### 🖥️ Backend / Tools
+- json-server  
+- Custom server logic: `server.js`  
+
+---
+
+## 📺 Demo
+![Contact Book Project Demo](contact-book-project.gif)
